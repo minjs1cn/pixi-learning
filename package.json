@@ -1,8 +1,16 @@
 {
-  "name": "pixi",
+  "name": "pixi-learning",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "青杨",
+    "email": "303890562@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:minjs1cn/pixi-learning.git"
+  },
   "scripts": {
     "dev": "webpack serve"
   },

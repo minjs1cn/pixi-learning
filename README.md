@@ -1,4 +1,4 @@
-# Pixi Leraning
+# Pixi Learning
 
 ## 学习资料
 

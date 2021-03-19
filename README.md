@@ -1,6 +1,6 @@
 # Pixi Learning
 
-记录 pixi 学习记录
+记录 pixi 学习记录，以及物理引擎内容
 ## 学习资料
 
 - [pixijs游戏开发](https://segmentfault.com/blog/pixijs)

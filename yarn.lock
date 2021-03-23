@@ -344,6 +344,11 @@
   version "7.0.7"
   resolved "https://registry.npm.taobao.org/@types/json-schema/download/@types/json-schema-7.0.7.tgz?cache=0&sync_timestamp=1613379029028&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fjson-schema%2Fdownload%2F%40types%2Fjson-schema-7.0.7.tgz#98a993516c859eb0d5c4c8f098317a9ea68db9ad"
 
+"@types/keyboardjs@^2.5.0":
+  version "2.5.0"
+  resolved "https://registry.npm.taobao.org/@types/keyboardjs/download/@types/keyboardjs-2.5.0.tgz#8ab3ac77a1e413e64b80c51b8d6c20e6c79da3f5"
+  integrity sha1-irOsd6HkE+ZLgMUbjWwg5sedo/U=
+
 "@types/minimatch@*":
   version "3.0.3"
   resolved "https://registry.npm.taobao.org/@types/minimatch/download/@types/minimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
@@ -1875,6 +1880,11 @@ json5@^2.1.2:
   resolved "https://registry.npm.taobao.org/json5/download/json5-2.2.0.tgz?cache=0&sync_timestamp=1612146079519&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fjson5%2Fdownload%2Fjson5-2.2.0.tgz#2dfefe720c6ba525d9ebd909950f0515316c89a3"
   dependencies:
     minimist "^1.2.5"
+
+keyboardjs@^2.6.4:
+  version "2.6.4"
+  resolved "https://registry.npm.taobao.org/keyboardjs/download/keyboardjs-2.6.4.tgz#28dccd9787c8f37e7c017df2f87294ca21143436"
+  integrity sha1-KNzNl4fI8358AX3y+HKUyiEUNDY=
 
 killable@^1.0.1:
   version "1.0.1"
